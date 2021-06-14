@@ -5,7 +5,7 @@ I am Pandademic.This is my README. I love using CLI tools and git.Currently I us
 ##### Work
 _____
 I have lots of  repo's in My profile where I Use Github Pages.Most of My work is Data Viewer.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
 
 #### Langauges I use
 _____
