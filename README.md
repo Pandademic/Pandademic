@@ -1,6 +1,6 @@
 ### Hi there  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ___
-I am Pandademic.This is my README. I love using CLI tools and git.Currently I use The Git Cli and Gitkraken for my git.
+I am Pandademic.This is my README. I am a young programer.I love CLI tools and Command prompt.
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)]
 
 ##### Work
@@ -14,11 +14,8 @@ _____
 - CSS
 - HTML
 - JS
-- TS
-- Ruby(Learning)
-- XML(Learning)
-- VBscript( I am Bad)
-- JSON(learning)
+- YAML
+Im currnetly learning Lox and Typescript
 <!--
 **Pandademic/Pandademic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
