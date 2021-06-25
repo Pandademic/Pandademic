@@ -3,12 +3,12 @@ ___
 I am Pandademic.This is my README. I am a young programer.I love CLI tools and Command prompt.I enjoy Drawing and photography.
 
 
-##### Work
+#### Work
 _____
 I have lots of  repo's in My profile where I Use Github Pages.Most of My work is Data Viewer.![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)
 
 
-#### Langauges I use
+### Langauges I Know:
 _____
 - Python
 - CSS
