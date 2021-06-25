@@ -1,6 +1,6 @@
 ### Hi there  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ___
-I am Pandademic.This is my README. I am a young programer.I love CLI tools and Command prompt.
+I am Pandademic.This is my README. I am a young programer.I love CLI tools and Command prompt.I enjoy Drawing and photography.
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)]
 
 ##### Work
@@ -15,7 +15,9 @@ _____
 - HTML
 - JS
 - YAML
-Im currnetly learning Lox and Typescript
+# ✨Currnetly learning✨ :
+- Lox 
+- Typescript
 <!--
 **Pandademic/Pandademic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
