@@ -18,7 +18,7 @@ _____
 # ✨Currnetly learning✨ :
 - Lox 
 - Typescript
-- SASS or Possibly SCSS
+- SCSS
 - C#
 <!--
 **Pandademic/Pandademic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
