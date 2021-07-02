@@ -14,7 +14,7 @@ I have lots of  repo's in My profile where I Use Github Pages.Most of My work is
 
 ### Langauges I Know:
 _____
-- ![Python](https://github.com/Pandademic/Pandademic/blob/main/python-original-wordmark.svg)
+- <img src="https://github.com/Pandademic/Pandademic/blob/main/python-original-wordmark.svg"width=500px height=500px></img>
 - CSS
 - HTML
 - JS
