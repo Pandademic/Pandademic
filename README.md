@@ -15,7 +15,7 @@ I have lots of  repo's in My profile where I Use Github Pages.Most of My work is
 
 ### Langauges I Know:
 _____
-- Python
+- Python #3776AB
 - CSS
 - HTML
 - JS
