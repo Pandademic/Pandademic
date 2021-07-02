@@ -10,6 +10,7 @@ I am Pandademic.This is my README. I am a young programer.I love CLI tools and C
 _____
 I have lots of  repo's in My profile where I Use Github Pages.Most of My work is Data Viewer.![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandademic&langs_count=15)]
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandademic&theme=vue)
 
 
 <!--![python](https://github.com/Pandademic/Pandademic/blob/main/python-original-wordmark.svg)-->
