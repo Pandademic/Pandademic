@@ -1,4 +1,5 @@
 ![Banner](https://github.com/Pandademic/Pandademic/blob/main/banner.png)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 
 ### Hi there  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ___
