@@ -26,5 +26,6 @@ jobs:
       - uses: lowlighter/metrics@v3.10
 
       - name: Metrics embed
-        
+        uses: lowlighter/metrics@v3.10
+
          
