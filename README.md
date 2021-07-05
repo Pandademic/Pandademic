@@ -31,6 +31,7 @@ _____
 - Typescript
 - SCSS
 - C#
+- Docker
 # Stats come from:
 ___
 (https://github.com/anuraghazra/github-readme-stats)
