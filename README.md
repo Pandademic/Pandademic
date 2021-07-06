@@ -21,7 +21,7 @@ I have lots of  repo's in My profile where I Use Github Pages.Most of My work is
 
 ### Langauges I Know:
 _____
-- <img src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png)"width=50 height=50></img>
+- 
 - ![CSS](https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png)
 - ![HTML](https://image.flaticon.com/icons/png/512/732/732212.png)
 - JS
