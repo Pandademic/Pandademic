@@ -11,11 +11,7 @@ I am Pandademic.This is my README. I am a young programer.I love using command l
 
 #### Work
 _____
-I have lots of  repo's in My profile where I Use Github Pages.Most of my work is on repos where I have licences .![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandademic&langs_count=15)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandademic&theme=vue)
-
-
+I have lots of  repo's in My profile where I Use Github Pages.Most of my work is on repos where I have licences .
 <!--![python](https://github.com/Pandademic/Pandademic/blob/main/python-original-wordmark.svg)-->
 
 
@@ -24,9 +20,8 @@ I have lots of  repo's in My profile where I Use Github Pages.Most of my work is
 
 # ✨Langauges I am learning✨ :
 <!--- Lox--> 
-- Typescript
-- SCSS
-- C#
+<p align="left"><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-plain.svg" alt="Typescript" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="Scss" width="40" height="40"/> </a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/csharp/csharp-original.svg" alt="cSHARP" width="40" height="40"/> </a></p>
+
 
 # Technoglogys I am using
 ___
@@ -36,9 +31,14 @@ ___
 # I am working on
 ____
 
-# Stats come from:
+# Stats
 ___
-(https://github.com/anuraghazra/github-readme-stats)
+<!--(https://github.com/anuraghazra/github-readme-stats)-->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandademic&langs_count=15)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandademic&theme=vue)
+
+
 <!--
 **Pandademic/Pandademic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
