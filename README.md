@@ -12,7 +12,7 @@ I am Pandademic.This is my README. I am a young programer.I love CLI tools and C
 #### Work
 _____
 I have lots of  repo's in My profile where I Use Github Pages.Most of My work is Data Viewer.![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandademic&langs_count=15)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandademic&langs_count=15)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandademic&theme=vue)
 
 
@@ -21,9 +21,9 @@ I have lots of  repo's in My profile where I Use Github Pages.Most of My work is
 
 ### Langauges I Know:
 _____
-- Python
-- CSS
-- HTML
+- ![Python](https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png)
+- ![CSS](https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png)
+- ![HTML](https://image.flaticon.com/icons/png/512/732/732212.png)
 - JS
 - YAML
 # ✨Currnetly learning✨ :
