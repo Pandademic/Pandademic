@@ -3,7 +3,7 @@
 ![](https://forthebadge.com/images/badges/made-with-crayons.svg)
 ![](https://forthebadge.com/images/badges/designed-in-inkscape.svg)
 ![](https://forthebadge.com/images/badges/made-with-markdown.svg)
-### Hi there  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+### Hi there 
 ___
 I am Pandademic.This is my README. I am a young programer.I love using command line terminals.I enjoy Drawing , Digital Art and photography.I am currenlt learning how to use docker.
 <img src="https://media3.giphy.com/media/Run9VruCW6tg8lighU/giphy.gif"/>
@@ -37,6 +37,10 @@ ___
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandademic)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandademic&langs_count=15)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pandademic&theme=vue)
+
+# Places I am active
+____
+<p align="left"> <a href="https://github.com/Pandademic" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github" width="40" height="40"/> </a> <a href="https://dev.to/" target="_blank"> ,<img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=Dev&logoColor=white" alt="DEV.to" width="40" height="40"/> </a>
 
 
 <!--
