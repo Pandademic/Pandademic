@@ -40,7 +40,7 @@ ___
 
 # Places I am active
 ____
-<p align="left"> <a href="https://github.com/Pandademic" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github" width="40" height="40"/> </a> <a href="https://dev.to/" target="_blank"> ,<img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=Dev&logoColor=white" alt="DEV.to" width="40" height="40"/> </a>
+<p align="left"> <a href="https://github.com/Pandademic" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github" width="70" height="70"/> </a> <a href="https://dev.to/" target="_blank"> ,<img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=Dev&logoColor=white" alt="DEV.to" width="70" height="70"/> </a>
 
 
 <!--
