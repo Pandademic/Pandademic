@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MakoCSS](https://github.com/Pandademic/MakoCSS)
 
-- 🌱 I’m currently learning **Angular,c#*,JSX react,Jinja*
+- 🌱 I’m currently learning **JSX react**
 
 - ⚡ Fun fact **I think I am funny**
 
