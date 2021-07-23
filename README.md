@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandademic" alt="pandademic" /></a> </p>
 
-- 🔭 I’m currently working on [MakoCSS](https://github.com/Pandademic/MakoCSS)
+- 🔭 I’m currently working on [A customised fork of atom](https://github.com/Pandademic/CustomAtom)
 
 - 🌱 I’m currently learning **JSX react**,rails
 
