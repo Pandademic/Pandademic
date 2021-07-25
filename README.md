@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on [A customised fork of atom](https://github.com/Pandademic/CustomAtom)
 
-- 🌱 I’m currently learning **JSX react**,rails
-
+- 🌱 I’m currently learning **react,ruby,Keras,Coffescript**
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
