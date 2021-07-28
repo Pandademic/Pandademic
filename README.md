@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Expresso](https://github.com/Pandademic/Expresso)
 
-- 🌱 I’m currently learning **react,ruby,Keras,Coffescript**
+- 🌱 I’m currently learning **Linux,react,ruby,Keras,Coffescript**
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
