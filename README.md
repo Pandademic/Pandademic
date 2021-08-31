@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [explain SHA like im 5](https://dev.to/pandademic/explain-sha-like-im-5-19i2)
 - [Explain what is vue , Like Im five](https://dev.to/pandademic/what-is-vuejs-2h6p)
 - [I made a package manager!](https://dev.to/pandademic/i-made-a-package-manager-23dc)
 - [What is GitHub dependabot?](https://dev.to/pandademic/what-is-github-dependabot-34e5)
-- [Installing Docker Desktop Easily on Windows](https://dev.to/pandademic/downloading-docker-desktop-easily-3mm6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
