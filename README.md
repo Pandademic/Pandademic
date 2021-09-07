@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What do you think would be nice in a developer centric Linux distro?](https://dev.to/pandademic/what-do-you-think-would-be-nice-in-a-developer-centric-linux-distro-4fj8)
 - [explain SHA like im 5](https://dev.to/pandademic/explain-sha-like-im-5-19i2)
 - [Explain what is vue , Like Im five](https://dev.to/pandademic/what-is-vuejs-2h6p)
 - [I made a package manager!](https://dev.to/pandademic/i-made-a-package-manager-23dc)
-- [What is GitHub dependabot?](https://dev.to/pandademic/what-is-github-dependabot-34e5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
