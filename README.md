@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pandademic</h1>
 - 🔭 I’m currently working on  latte: https://github.com/Pandademic/Latte
 
-- 🌱 I’m currently learning **Vlang**
+<!--- 🌱 I’m currently learning **Vlang**-->
 
 - 👯 I’m looking to collaborate on [latte](https://github.com/Pandademic/Latte)
 
