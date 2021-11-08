@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Like im 5:What is JQUERY???????](https://dev.to/pandademic/like-im-5-what-is-jquery-5eji)
 - [Explain Forem , like im 5](https://dev.to/pandademic/explain-forem-like-im-5-4oh8)
-- [I made a package Manager (September update)](https://dev.to/pandademic/i-made-a-package-manager-september-update-5cij)
+- [I made a package Manager &lpar;September update&rpar;](https://dev.to/pandademic/i-made-a-package-manager-september-update-5cij)
 - [What do you think would be nice in a developer centric Linux distro?](https://dev.to/pandademic/what-do-you-think-would-be-nice-in-a-developer-centric-linux-distro-4fj8)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Toolbox:</h3>
