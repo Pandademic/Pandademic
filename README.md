@@ -5,8 +5,10 @@ batch
 CSS
 SCSS/SASS
 HTML
+
 **Learning:**
 - C
+
 **Sort of knowing**
 - rust
 - go
