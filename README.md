@@ -19,7 +19,10 @@ Hello !
 - JS
 - python
 - Vlang
- ---------------
- ⚠️ **DISCLAIMER** ⚠️ :: Building my own (sometimes strange 😆) ideas in **ALL** of these langauges regarding of wheter I know them fully or not
- ---------------
- I'm also probably struguling with github pages 😆 :octocat:
+---------------
+⚠️ **DISCLAIMER** ⚠️ :: Building my own (sometimes strange 😆) ideas in **ALL** of these langauges regarding of wheter I know them fully or not
+---------------
+I'm also probably struguling with github pages 😆 :octocat:
+And trying to make windowslet me do stuff 🧰
+# MOST IMPORTANTLY
+And having fun(🥳) along the way!
