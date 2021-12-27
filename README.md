@@ -26,3 +26,6 @@ I'm also probably struguling with github pages 😆 :octocat:
 And trying to make windowslet me do stuff 🧰
 # MOST IMPORTANTLY
 And having fun(🥳) along the way!
+
+---
+also sometimes having the username podachi
