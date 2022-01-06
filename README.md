@@ -1,4 +1,5 @@
 Hello !
+I'm Atharv(Atha,Pandadademic) and I like to code
 Active contributer to @UnvLabs
 
 **Building things in:**
@@ -25,7 +26,6 @@ Active contributer to @UnvLabs
 ---------------
 I'm also probably struguling with github pages 😆 :octocat:
 And trying to make windows let me do stuff 🧰
-# MOST IMPORTANTLY
 And having fun(🥳) along the way!
 
 ---
