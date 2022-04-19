@@ -4,7 +4,7 @@ Hello !
 Computer Science?
 Guess that's what you *could* call my (fooling around , experimintation , stupidity .... take your pick)
 ----
-I am making
+I am making/have made
 - shuttle
 - webserve
 - luve.go (go library)
